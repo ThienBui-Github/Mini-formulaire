@@ -1,12 +1,6 @@
 import React, { useState } from 'react';
 import { Input, Button, Checkbox, Progress, Form } from "semantic-ui-react";
 
-// import Nav from './component/Nav';
-// import Objectif from './component/Objectif';
-// import InfoPersonnel from './component/InfoPersonnel';
-// import Formation from './component/Formation';
-// import Statut from './component/Statut';
-
 import './style.css';
 
 const App = () => {
